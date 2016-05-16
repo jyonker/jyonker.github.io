@@ -55,7 +55,7 @@ p {
   background: #42A8C0;
   position: absolute;
   right: 0;
-  width: 240px;
+  width: 260px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -84,6 +84,9 @@ p {
 }
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
@@ -143,13 +146,16 @@ p {
 .sidebar-wrapper .languages-list li:last-child {
   margin-bottom: 0;
 }
-.sidebar-wrapper .interests-list {
+.sidebar-wrapper .projects-list {
   margin-bottom: 0;
 }
-.sidebar-wrapper .interests-list li {
+.sidebar-wrapper .projects-list .fa {
+  margin-right: 5px;
+}
+.sidebar-wrapper .projects-list li {
   margin-bottom: 10px;
 }
-.sidebar-wrapper .interests-list li:last-child {
+.sidebar-wrapper .projects-list li:last-child {
   margin-bottom: 0;
 }
 .main-wrapper {
