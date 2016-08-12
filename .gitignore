@@ -1,4 +1,3 @@
-.idea/
-node_modules/
-bower_components/
-*.iml
+_site
+.sass-cache
+.jekyll-metadata
