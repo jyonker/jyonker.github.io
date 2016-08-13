@@ -1,0 +1,13 @@
+{
+  "name": "jyonker.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "bundle exec jekyll serve -I"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyonker/jyonker.github.io.git"
+  },
+  "author": "jyonker"
+}

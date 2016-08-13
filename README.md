@@ -1,1 +1,1 @@
-Serve Jekyll locally: `bundle exec jekyll serve`
+Serve Jekyll locally: `npm run serve`
