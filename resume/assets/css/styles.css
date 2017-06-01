@@ -8,6 +8,10 @@
 */
 /* styles.css */
 /* ======= Base ======= */
+.site-description {
+  list-style: none;
+}
+
 h1,
 h2,
 h3,
