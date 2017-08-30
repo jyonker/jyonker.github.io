@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "serve": "bundle exec jekyll serve -I"
+    "serve": "bundle exec jekyll serve -I",
+    "start": "bundle exec jekyll serve -I"
   },
   "repository": {
     "type": "git",

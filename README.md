@@ -1,1 +1,1 @@
-Serve Jekyll locally: `npm run serve`
+Serve Jekyll locally: `npm start`
