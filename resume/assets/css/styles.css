@@ -341,4 +341,10 @@ h6 {
   .main-wrapper .section {
     margin-bottom: 30px;
   }
+
+  .main-wrapper .time {
+    position: absolute;
+    display: inline;
+    margin-top: 0;
+  }
 }
