@@ -338,6 +338,10 @@ h6 {
     color: black;
   }
 
+  .main-wrapper {
+    box-shadow: none;
+  }
+
   .main-wrapper .section {
     margin-bottom: 30px;
   }
